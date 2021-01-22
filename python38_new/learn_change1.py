@@ -160,3 +160,7 @@ print(f'{theta=} {cos(radians(theta))=:.3f}')
 
 "theta=10 cos(radians(theta))=0.985"
 
+
+
+
+
